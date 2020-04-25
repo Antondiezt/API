@@ -54,10 +54,10 @@
 5. Retirement income versus projected income
 
 - Projected income over 30 years is 221670.00
-- Retirement portfolio with a 4% withdrawal rate in the 10th percentile is 181340.33
-- The retirment portfolio in the 10th Percentile will be lower that the projected income over 30 years given the 4% withdrawal rate
+- Retirement portfolio with a 4% withdrawal rate in the 10th percentile is 491662.07
+- The retirment portfolio in the 10th Percentile will be higher that the projected income over 30 years given the 4% withdrawal rate
 
 6. 50% additinal investment for retirement income versus projected income
 
-- A 50% increase in the initial investment with a 4% withdrawal rate will result in a retirement income of 272010.50
-- The 4% retirment withdrawal will be higher but as a result, the retirement income will be higher than the projected income
+- A 50% increase in the initial investment with a 4% withdrawal rate will result in a retirement income of 737493.11
+- The 4% retirement withdrawal will be higher but also the retirement income

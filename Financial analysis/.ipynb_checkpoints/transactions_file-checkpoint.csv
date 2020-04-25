@@ -1,0 +1,17 @@
+,date,amount,name,category
+0,2020-04-15,25.0,CREDIT CARD 3333 PAYMENT *//,Payment
+1,2020-04-15,5.4,Uber,Travel
+2,2020-04-14,5850.0,ACH Electronic CreditGUSTO PAY 123456,Transfer
+3,2020-04-14,1000.0,CD DEPOSIT .INITIAL.,Transfer
+4,2020-04-13,78.5,Touchstone Climbing,Recreation
+5,2020-04-13,-500.0,United Airlines,Travel
+6,2020-04-12,12.0,McDonald's,Food and Drink
+7,2020-04-12,4.33,Starbucks,Food and Drink
+8,2020-04-11,89.4,SparkFun,Food and Drink
+9,2020-04-10,-4.22,INTRST PYMNT,Transfer
+10,2020-03-31,500.0,United Airlines,Travel
+11,2020-03-29,6.33,Uber,Travel
+12,2020-03-26,500.0,Tectra Inc,Food and Drink
+13,2020-03-25,2078.5,AUTOMATIC PAYMENT - THANK,Payment
+14,2020-03-25,500.0,KFC,Food and Drink
+15,2020-03-25,500.0,Madison Bicycle Shop,Shops
